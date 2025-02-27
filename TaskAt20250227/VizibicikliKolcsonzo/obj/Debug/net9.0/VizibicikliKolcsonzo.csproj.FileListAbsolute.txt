@@ -1,0 +1,14 @@
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\bin\Debug\net9.0\VizibicikliKolcsonzo.exe
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\bin\Debug\net9.0\VizibicikliKolcsonzo.deps.json
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\bin\Debug\net9.0\VizibicikliKolcsonzo.runtimeconfig.json
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\bin\Debug\net9.0\VizibicikliKolcsonzo.dll
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\bin\Debug\net9.0\VizibicikliKolcsonzo.pdb
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\obj\Debug\net9.0\VizibicikliKolcsonzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\obj\Debug\net9.0\VizibicikliKolcsonzo.AssemblyInfoInputs.cache
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\obj\Debug\net9.0\VizibicikliKolcsonzo.AssemblyInfo.cs
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\obj\Debug\net9.0\VizibicikliKolcsonzo.csproj.CoreCompileInputs.cache
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\obj\Debug\net9.0\VizibicikliKolcsonzo.dll
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\obj\Debug\net9.0\refint\VizibicikliKolcsonzo.dll
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\obj\Debug\net9.0\VizibicikliKolcsonzo.pdb
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\obj\Debug\net9.0\VizibicikliKolcsonzo.genruntimeconfig.cache
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\obj\Debug\net9.0\ref\VizibicikliKolcsonzo.dll
