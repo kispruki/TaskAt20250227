@@ -12,3 +12,4 @@ C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt202
 C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\obj\Debug\net9.0\VizibicikliKolcsonzo.pdb
 C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\obj\Debug\net9.0\VizibicikliKolcsonzo.genruntimeconfig.cache
 C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\obj\Debug\net9.0\ref\VizibicikliKolcsonzo.dll
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\VizibicikliKolcsonzo\obj\Debug\net9.0\VizibicikliKolcsonzo.sourcelink.json
