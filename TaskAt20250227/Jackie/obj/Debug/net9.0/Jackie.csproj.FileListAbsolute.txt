@@ -1,0 +1,15 @@
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Jackie\obj\Debug\net9.0\Jackie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Jackie\obj\Debug\net9.0\Jackie.AssemblyInfoInputs.cache
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Jackie\obj\Debug\net9.0\Jackie.AssemblyInfo.cs
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Jackie\obj\Debug\net9.0\Jackie.csproj.CoreCompileInputs.cache
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Jackie\obj\Debug\net9.0\Jackie.sourcelink.json
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Jackie\bin\Debug\net9.0\Jackie.exe
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Jackie\bin\Debug\net9.0\Jackie.deps.json
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Jackie\bin\Debug\net9.0\Jackie.runtimeconfig.json
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Jackie\bin\Debug\net9.0\Jackie.dll
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Jackie\bin\Debug\net9.0\Jackie.pdb
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Jackie\obj\Debug\net9.0\Jackie.dll
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Jackie\obj\Debug\net9.0\refint\Jackie.dll
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Jackie\obj\Debug\net9.0\Jackie.pdb
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Jackie\obj\Debug\net9.0\Jackie.genruntimeconfig.cache
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Jackie\obj\Debug\net9.0\ref\Jackie.dll

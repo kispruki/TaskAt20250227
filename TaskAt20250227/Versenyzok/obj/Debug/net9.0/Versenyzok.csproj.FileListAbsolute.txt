@@ -1,0 +1,15 @@
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Versenyzok\bin\Debug\net9.0\Versenyzok.exe
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Versenyzok\bin\Debug\net9.0\Versenyzok.deps.json
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Versenyzok\bin\Debug\net9.0\Versenyzok.runtimeconfig.json
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Versenyzok\bin\Debug\net9.0\Versenyzok.dll
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Versenyzok\bin\Debug\net9.0\Versenyzok.pdb
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Versenyzok\obj\Debug\net9.0\Versenyzok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Versenyzok\obj\Debug\net9.0\Versenyzok.AssemblyInfoInputs.cache
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Versenyzok\obj\Debug\net9.0\Versenyzok.AssemblyInfo.cs
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Versenyzok\obj\Debug\net9.0\Versenyzok.csproj.CoreCompileInputs.cache
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Versenyzok\obj\Debug\net9.0\Versenyzok.sourcelink.json
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Versenyzok\obj\Debug\net9.0\Versenyzok.dll
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Versenyzok\obj\Debug\net9.0\refint\Versenyzok.dll
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Versenyzok\obj\Debug\net9.0\Versenyzok.pdb
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Versenyzok\obj\Debug\net9.0\Versenyzok.genruntimeconfig.cache
+C:\Users\kispr\OneDrive\developer\WORKPLACE\C#\20250227\TaskAt20250227\TaskAt20250227\Versenyzok\obj\Debug\net9.0\ref\Versenyzok.dll
